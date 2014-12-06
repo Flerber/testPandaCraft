@@ -1,0 +1,20 @@
+[
+{
+"modid": "PandaCraft",
+"name": "PandaCraft",
+"description": "Pandas, Bamboo and More!",
+"version": "1.7.10-1.0",
+"credits": "Created by Flerbergerber, special thanks to yo mamma.",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authors": [ "Flerbergerber" ],
+"parent": "",
+"requiredMods": [ "Forge" ],
+"dependencies": [ "mod_MinecraftForge" ],
+"dependants": [],
+"screenshots": [],
+"useDependencyInformation": false
+}
+]
